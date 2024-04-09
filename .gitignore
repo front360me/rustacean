@@ -1,2 +1,5 @@
+# Output folders and files
+
 *.exe
 *.pdb
+target/
